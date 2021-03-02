@@ -12,8 +12,6 @@
 - Styling, but only if you have time and you would like to!
 - Speed - we don’t want you to rush your implementation, and we don’t expect you to get around to every single little detail. But the time constraint will show us what you choose to focus on when you need to get scrappy
 
-TODO
-1. Set up react proj
-2. pull from deckofcardsapi
-3. impl blackjack (w tests?)
-4. add testing
+
+
+TODO: impl testing, impl styling

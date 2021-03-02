@@ -1,0 +1,1 @@
+export const FACE_CARD_VAL = 10;

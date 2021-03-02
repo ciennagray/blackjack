@@ -1,0 +1,1 @@
+export const SHUFFLED_DECK_ENDPOINT = 'https://deckofcardsapi.com/api/deck/new/shuffle/?deck_count=1';
